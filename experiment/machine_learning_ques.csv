@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main goal of supervised learning?,a : To find hidden patterns in data | b : To predict future outcomes based on models | c : To learn from unlabeled data | d : To identify anomalies in a dataset,b
+Which type of machine learning does reinforcement learning fall under?,a : Supervised learning | b : Unsupervised learning | c : Semi-supervised learning | d : Reinforcement learning,d
+What is the key idea behind sparse dictionary learning?,a : Representing data as a linear combination of basis functions | b : Finding clusters in data | c : Identifying anomalies in a dataset | d : Predicting future outcomes based on historical data,a
+What is the main purpose of association rule learning?,a : Discovering relationships between variables in large databases | b : Predicting future stock prices | c : Identifying outliers in a dataset | d : Optimizing feature selection,a
+Which type of learning involves training a model by generating the supervisory signal from the data itself?,a : Supervised learning | b : Unsupervised learning | c : Semi-supervised learning | d : Self-learning,d
