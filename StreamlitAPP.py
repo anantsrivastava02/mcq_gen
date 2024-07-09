@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 from src.mcqgenrator.utils import read_file, get_table_data
 import streamlit as st 
 from langchain.callbacks import get_openai_callback
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
 from src.mcqgenrator.MCQGenerator import evalute_chains
 from src.mcqgenrator.logger import logging
 
