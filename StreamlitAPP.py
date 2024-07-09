@@ -11,6 +11,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
 from src.mcqgenrator.MCQGenerator import evalute_chains
 from src.mcqgenrator.logger import logging
 
+
 with open('C:/Users/anant/mcq_gen/Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
